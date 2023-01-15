@@ -1,4 +1,4 @@
-## Rental House Website
+## Rent House Website
 
 A website for renting houses, built with React
 
@@ -21,4 +21,4 @@ To set up the project, you need to have Node.js and MongoDB installed on your ma
 
 ### Live Demo
 
-A live demo of the website is available at [rentalhouse](https://renthousewebapp.netlify.app/)
+A live demo of the website is available at [renthouse](https://renthousewebapp.netlify.app/)
